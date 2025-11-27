@@ -1,0 +1,5 @@
+{
+  "name": "Weather AI",
+  "description": "Real-time weather forecast application using Gemini AI and Google Search grounding.",
+  "requestFramePermissions": []
+}
